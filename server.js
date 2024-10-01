@@ -1,5 +1,5 @@
 const express = require("express");
-const PORT = process.env.PORT || 9000;
+const PORT = process.env.PORT || 9001;
 const app = express();
 const cors = require("cors");
 const blogs = require("./src/routes/BlogsRoute");

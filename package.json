@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon server.js",
     "test": "npm start",
-    "build": "build"
+    "build": "npm run build"
   },
   "keywords": [
     "midas",
